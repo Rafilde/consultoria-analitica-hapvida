@@ -5,15 +5,15 @@
 ---
 
 ## 👥 Equipe
-* **Integrante 1**: Rafaeel Antônio da Silva Neto (2212378) - [Função: Ex: Data Engineer / SRC]
-* **Integrante 2**: [Nome Completo] - [Função: Ex: Data Analyst / Notebooks]
-* **Integrante 3**: [Nome Completo] - [Função: Ex: UI/UX Designer / Dashboard]
-* **Integrante 4**: [Nome Completo] - [Função: Ex: Documentation / Storytelling]
+* **Integrante 1**: Rafaeel Antônio da Silva Neto - 2212378
+* **Integrante 2**: [Nome Completo] - [Matrícula]
+* **Integrante 3**: [Nome Completo] - [Matrícula]
+* **Integrante 4**: [Nome Completo] - [Matrícula]
 
 ---
 
 ## 🎯 Objetivos do Projeto
-[Descreva aqui em um parágrafo o que a equipe pretende descobrir. Exemplo: Identificar gargalos logísticos e falhas de comunicação no pós-venda da empresa X.]
+Este projeto visa analisar o fluxo de reclamações da Hapvida Saúde na plataforma ReclameAqui, transformando relatos qualitativos em indicadores estratégicos. Através da análise de dados, buscamos identificar falhas operacionais na rede de atendimento, gargalos regionais de infraestrutura e a eficácia da equipe de Customer Experience (CX) na resolução definitiva de conflitos.
 
 * **Objetivo 1:** [Ex: Analisar a sazonalidade das reclamações]
 * **Objetivo 2:** [Ex: Mapear a eficiência de resolução por estado]
@@ -29,12 +29,16 @@ Este projeto utiliza uma estrutura modular para garantir que a análise seja esc
 * **`RECLAMEAQUI_HAPVIDA/`**: Contém o dataset original extraído do ReclameAqui. **Nunca deve ser alterado.**
 
 ### 2. `notebooks/` (Relatórios Narrativos)
-Nesta pasta, o foco é o **Storytelling**. Cada decisão técnica é explicada em texto antes do código.
-* **`01_limpeza.ipynb`**: Focado no tratamento inicial, conversão de tipos e higienização. Contém as justificativas de por que os dados foram filtrados.
-* **`02_analise_exploratoria.ipynb`**: Contém os cruzamentos estatísticos, testes de hipóteses e gráficos preliminares.
+
+Nesta pasta, o foco é o **Storytelling**. Cada decisão técnica é explicada em texto antes do código, servindo como o relatório oficial da consultoria.
+
+* **`00_inspecao_inicial.ipynb`**: O primeiro contato com os dados brutos da Hapvida. Este notebook documenta a análise de integridade, identificação de valores nulos, redundâncias e inconsistências de tipagem. Serve para validar "o que está errado" antes de qualquer ação.
+* **`01_tratamento_e_justificativa.ipynb`**: Corresponde ao **Acompanhamento 1**. Aqui, os insights de negócio são conectados às ações técnicas. Cada limpeza é precedida por uma justificativa estratégica, demonstrando como o dado limpo ajudará a responder aos objetivos da consultoria.
+* **`02_analise_exploratoria.ipynb`**: Focado no **Acompanhamento 2**, contém os cruzamentos estatísticos, validação de hipóteses e a geração dos gráficos preliminares que servirão de base para o Dashboard final.
 
 ### 3. `src/` (Código-Fonte / Backend)
 Contém a lógica reutilizável em arquivos `.py`. Isso evita poluir os notebooks com códigos repetitivos.
+* **entrada_saida**: Funções para leitura e escrita das planilhas.
 * **Limpeza**: Funções de automação de limpeza de strings, datas e tratamento de nulos.
 * **Métricas**: Cálculos dos KPIs (Key Performance Indicators) definidos pela equipe.
 * **NLP**: Processamento de texto para a WordCloud e análise de caracteres.
@@ -46,7 +50,7 @@ Contém a lógica reutilizável em arquivos `.py`. Isso evita poluir os notebook
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-* **Linguagem**: Python 3.x
+* **Linguagem**: Python
 * **Análise de Dados**: Pandas, Numpy
 * **Visualização**: Plotly, Seaborn, Matplotlib
 * **NLP**: NLTK ou Spacy (Stopwords)
@@ -55,12 +59,66 @@ Contém a lógica reutilizável em arquivos `.py`. Isso evita poluir os notebook
 
 ---
 
-## 🚀 Como Executar o Projeto
-1. Clone este repositório.
-2. Crie um ambiente virtual e instale as dependências:
-   ```bash
-   pip install -r requirements.txt
-3. Para visualizar o tratamento de dados, abra os arquivos na pasta `notebooks/`.
-4. Para rodar o Dashboard interativo:
-   ```bash
-   streamlit run dashboard/app.py
+## Como Executar o Projeto
+
+### Clone o repositório
+```bash
+git clone <url-do-repositorio>
+cd CONSULTORIA-ANALITICA-HAPVIDA
+```
+
+### Crie um ambiente virtual (recomendado)
+```bash
+python -m venv venv
+```
+
+Ative o ambiente:
+
+**Windows**
+```bash
+venv\Scripts\activate
+```
+
+**Mac/Linux**
+```bash
+source venv/bin/activate
+```
+
+### Instale as dependências
+```bash
+pip install -r requirements.txt
+```
+
+### Executando os Notebooks
+
+Este projeto utiliza notebooks Jupyter que devem ser executados localmente (não no Google Colab), pois dependem da estrutura de pastas do projeto (`src/`, `data/`, etc.).
+
+Instale o kernel do Jupyter:
+```bash
+pip install ipykernel notebook
+```
+
+Abra o projeto no VS Code (pela pasta raiz) e execute os arquivos dentro de:
+```
+notebooks/
+```
+
+> Certifique-se de selecionar o Python local como Kernel no canto superior direito do notebook.
+
+### Rodando o Dashboard Interativo
+```bash
+streamlit run dashboard/app.py
+```
+
+O Streamlit abrirá automaticamente no navegador.
+
+---
+
+### ⚠️ Observação Importante
+
+Os notebooks devem ser executados localmente pois utilizam imports como:
+```python
+from src.entrada_saida import carregar_dados_brutos
+```
+
+Esses imports dependem da estrutura do projeto e não funcionam em ambientes na nuvem como o Google Colab.

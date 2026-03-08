@@ -5,4 +5,5 @@ streamlit
 matplotlib
 seaborn
 nbformat
-nltk
+spacy
+pt-core-news-sm

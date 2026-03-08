@@ -6,7 +6,7 @@
 
 ## 👥 Equipe
 * **Integrante 1**: Rafaeel Antônio da Silva Neto - 2212378
-* **Integrante 2**: [Nome Completo] - [Matrícula]
+* **Integrante 2**: Emanuel Sales Marinho Rocha - 2413961
 * **Integrante 3**: [Nome Completo] - [Matrícula]
 * **Integrante 4**: [Nome Completo] - [Matrícula]
 
@@ -53,7 +53,7 @@ Contém a lógica reutilizável em arquivos `.py`. Isso evita poluir os notebook
 * **Linguagem**: Python
 * **Análise de Dados**: Pandas, Numpy
 * **Visualização**: Plotly, Seaborn, Matplotlib
-* **NLP**: NLTK ou Spacy (Stopwords)
+* **NLP**: Spacy 
 * **Dashboard**: Streamlit / Plotly Dash
 * **IDE**: VS Code
 
@@ -66,6 +66,23 @@ Contém a lógica reutilizável em arquivos `.py`. Isso evita poluir os notebook
 git clone <url-do-repositorio>
 cd CONSULTORIA-ANALITICA-HAPVIDA
 ```
+
+### Executando os Notebooks
+
+Este projeto utiliza notebooks Jupyter que devem ser executados localmente (não no Google Colab), pois dependem da estrutura de pastas do projeto (`src/`, `data/`, etc.).
+
+Instale o kernel do Jupyter:
+```bash
+pip install ipykernel notebook
+```
+
+Abra o projeto no VS Code (pela pasta raiz) e execute os arquivos dentro de:
+```
+notebooks/
+```
+
+> Certifique-se de selecionar o Python local como Kernel no canto superior direito do notebook.
+
 
 ### Crie um ambiente virtual (recomendado)
 ```bash
@@ -89,21 +106,20 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### Executando os Notebooks
+### Configuração do Kernel no VS Code (Importante)
+Após instalar as dependências no venv, você precisa garantir que o Jupyter Notebook está usando o ambiente correto:
 
-Este projeto utiliza notebooks Jupyter que devem ser executados localmente (não no Google Colab), pois dependem da estrutura de pastas do projeto (`src/`, `data/`, etc.).
+- Abra qualquer arquivo .ipynb no VS Code.
 
-Instale o kernel do Jupyter:
-```bash
-pip install ipykernel notebook
-```
+- No canto superior direito, clique onde aparece a versão do Python (ex: Python 3.13.x).
 
-Abra o projeto no VS Code (pela pasta raiz) e execute os arquivos dentro de:
-```
-notebooks/
-```
+- Selecione a opção "Python Environments...".
 
-> Certifique-se de selecionar o Python local como Kernel no canto superior direito do notebook.
+- Escolha o interpretador que está dentro da pasta do projeto (geralmente marcado como 'venv': venv).
+
+- Se o VS Code pedir para instalar o ipykernel, clique em Install.
+
+Dica: Se você não fizer isso, o código não encontrará as bibliotecas instaladas (como o pandas ou nltk), mesmo que o terminal diga que está tudo certo.
 
 ### Rodando o Dashboard Interativo
 ```bash
@@ -113,12 +129,3 @@ streamlit run dashboard/app.py
 O Streamlit abrirá automaticamente no navegador.
 
 ---
-
-### ⚠️ Observação Importante
-
-Os notebooks devem ser executados localmente pois utilizam imports como:
-```python
-from src.entrada_saida import carregar_dados_brutos
-```
-
-Esses imports dependem da estrutura do projeto e não funcionam em ambientes na nuvem como o Google Colab.

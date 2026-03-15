@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt
 import seaborn as sns
+import matplotlib.dates as mdates 
 
 def configurar_estilo():
     """Define o estilo padrão para os gráficos da consultoria."""
@@ -9,25 +10,34 @@ def configurar_estilo():
 
 def plotar_sazonalidade(df):
     """
-    Gera o gráfico de linha para análise de sazonalidade.
+    Gera o gráfico de linha para análise de sazonalidade com nomes dos meses no eixo X.
     """
     sazonalidade = df.resample('MS', on='DATA').size().reset_index(name='QTD_RECLAMACOES')
 
-    plt.figure(figsize=(14, 6))
+    fig, ax = plt.subplots(figsize=(14, 6))
+    
     sns.lineplot(
         data=sazonalidade, 
         x='DATA', 
         y='QTD_RECLAMACOES', 
         marker='o', 
         color='#d63031', 
-        linewidth=2.5
+        linewidth=2.5,
+        ax=ax
     )
 
+    ax.xaxis.set_major_formatter(mdates.DateFormatter('%b/%Y'))
+    
+    ax.xaxis.set_major_locator(mdates.MonthLocator())
+    
+    plt.xticks(rotation=45)
+
     plt.title('Sazonalidade: Volume de Reclamações Mensais (Hapvida)')
-    plt.xlabel('Linha do Tempo')
+    plt.xlabel('Mês de Referência')
     plt.ylabel('Nº de Reclamações')
     plt.grid(True, alpha=0.3)
     
+    plt.tight_layout() 
     return plt.show()
 
 def plotar_ranking_cidades(df, top_n=10):

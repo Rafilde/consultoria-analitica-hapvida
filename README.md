@@ -7,7 +7,7 @@
 ## 👥 Equipe
 * **Integrante 1**: Rafaeel Antônio da Silva Neto - 2212378
 * **Integrante 2**: Emanuel Sales Marinho Rocha - 2413961
-* **Integrante 3**: [Nome Completo] - [Matrícula]
+* **Integrante 3**: Marcos Aurelio de Araujo Dias - 2010430
 * **Integrante 4**:  Siwan Eden Oliveira - 2220291
 
 ---

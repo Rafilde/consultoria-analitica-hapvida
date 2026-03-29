@@ -5,5 +5,7 @@ streamlit
 matplotlib
 seaborn
 nbformat
+ipykernel
+notebook
 spacy
-pt-core-news-sm
+pt_core_news_sm @ https://github.com/explosion/spacy-models/releases/download/pt_core_news_sm-3.8.0/pt_core_news_sm-3.8.0-py3-none-any.whl

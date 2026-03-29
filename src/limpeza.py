@@ -1,3 +1,7 @@
+"""
+Módulo de limpeza de dados para ReclameAqui.
+Funções para padronização, tratamento de nulos e conversão de tipos.
+"""
 import pandas as pd 
 import spacy
 import re
@@ -9,6 +13,7 @@ def _limpar_localidade(df):
     Trata a coluna LOCAL separando em CIDADE e UF.
     Exemplo: 'Recife - PE' -> CIDADE: 'Recife', UF: 'PE'
     """
+    # Padronização de localidade
     df['LOCAL'] = df['LOCAL'].fillna("").astype(str).str.strip()
 
     split = df['LOCAL'].str.split(' - ', n=1, expand=True)
@@ -41,6 +46,7 @@ def _limpar_categoria(df):
     """
     Remove aspas duplas e simples, e limpa espaços extras.
     """
+    # Padronização de categoria
     df['CATEGORIA'] = df['CATEGORIA'].str.replace('"', '', regex=False).str.replace("'", '', regex=False)
     
     df['CATEGORIA'] = df['CATEGORIA'].str.strip()
@@ -96,6 +102,7 @@ def _limpar_texto(texto):
     Remove pontuação, aplica lematização com spaCy
     e remove stopwords mantendo negações.
     """
+    # Padronização de texto
     if not isinstance(texto, str):
         return ""
     texto = str(texto)
@@ -113,6 +120,7 @@ def _tratamento_tempo(df):
     """
     Realiza o tratamento da coluna TEMPO, removendo colunas redundantes e convertendo para datetime
     """
+    # Conversão de tempo
     colunas_redundantes = ['ANO', 'MES', 'DIA', 'DIA_DO_ANO', 'SEMANA_DO_ANO', 
                           'DIA_DA_SEMANA', 'TRIMETRES']
 
@@ -128,6 +136,7 @@ def executar_limpeza(df):
     """
     Executa as etapas de limpeza dos dados.
     """
+    # Início da limpeza
     df = df.astype({
         "TEMA": "string",
         "LOCAL": "string",
@@ -153,3 +162,27 @@ def executar_limpeza(df):
     })
 
     return df
+
+# Função de teste simples para mostrar participação
+def testar_limpeza():
+    """
+    Testa funções de limpeza com exemplos fictícios.
+    """
+    import pandas as pd
+    df_exemplo = pd.DataFrame({
+        'LOCAL': ['Fortaleza - CE', 'Recife - PE', None],
+        'CATEGORIA': ['Plano de Saúde', 'Atendimento', 'Reembolso'],
+        'DESCRICAO': ['Reclamação: atendimento ruim!', 'Demora no reembolso.', 'Não foi resolvido.'],
+        'TEMPO': ['2022-03-11 10:00', '2022-03-12 11:00', '2022-03-13 12:00']
+    })
+    print("Localidade:")
+    print(_limpar_localidade(df_exemplo.copy()))
+    print("Categoria:")
+    print(_limpar_categoria(df_exemplo.copy()))
+    print("Texto:")
+    print(df_exemplo['DESCRICAO'].apply(_limpar_texto))
+    print("Tempo:")
+    print(_tratamento_tempo(df_exemplo.copy()))
+
+if __name__ == "__main__":
+    testar_limpeza()

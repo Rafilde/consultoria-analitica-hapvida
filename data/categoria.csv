@@ -1,0 +1,1017 @@
+CATEGORIA
+Demora na execução<->Plano<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Qualidade do serviço prestado<->Planos de Saúde<->Hapvida Saúde
+"Demora para autorização de consultas, exames e cirurgias<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde"
+Demora na execução<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Banheiro<->Problemas de infraestrutura<->Não encontrei meu problema<->Hapvida Saúde
+Planos de saúde<->Cobrança indevida<->Planos de Saúde<->Hapvida Saúde
+Plano<->Planos de Saúde<->Qualidade do serviço prestado<->Hapvida Saúde
+Planos de saúde<->Reajuste abusivo<->Planos de Saúde<->Hapvida Saúde
+Exames Lab e imagens<->Atraso na entrega dos resultados<->Não encontrei meu problema<->Hapvida Saúde
+Mau Atendimento<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Plano<->Planos de Saúde<->Hapvida Saúde<->Reembolso de consulta-exame
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Plano<->Planos de Saúde<->Qualidade do serviço prestado<->Hapvida Saúde
+Planos de saúde<->Qualidade do serviço prestado<->Não encontrei meu problema<->Hapvida Saúde
+Problemas com o Atendimento<->Qualidade do serviço prestado<->Equipe de Atendimento<->Hapvida Saúde
+Qualidade do serviço prestado<->Não encontrei meu problema<->Administrativo<->Hapvida Saúde
+Mau Atendimento<->Planos de Saúde<->Administrativo<->Hapvida Saúde
+Reembolso de pagamento<->Plano<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Qualidade do serviço prestado<->Não encontrei meu problema<->Hapvida Saúde
+Plano<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+"Demora para autorização de consultas, exames e cirurgias<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde"
+Exames Lab e imagens<->Hapvida Saúde<->Exames Lab. e imagem<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Plano<->Planos de Saúde<->Cobrança indevida<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Plano<->Planos de Saúde<->Hapvida Saúde<->Reembolso de consulta-exame
+Plano<->Planos de Saúde<->Hapvida Saúde<->Reembolso de consulta-exame
+Exames Lab e imagens<->Atraso na entrega dos resultados<->Exames Lab. e imagem<->Hapvida Saúde
+Plano<->Planos de Saúde<->Cobrança indevida<->Hapvida Saúde
+Problemas com o Atendimento<->Qualidade do serviço prestado<->Equipe de Atendimento<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Não consigo cancelar<->Planos de Saúde<->Administrativo<->Hapvida Saúde
+Problemas com o Atendimento<->Qualidade do serviço prestado<->Equipe de Atendimento<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Mau Atendimento<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Exames Lab e imagens<->Mau Atendimento<->Exames Lab. e imagem<->Hapvida Saúde
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Mau Atendimento<->Planos de Saúde<->Hapvida Saúde
+Plano<->Planos de Saúde<->Qualidade do serviço prestado<->Hapvida Saúde
+Plano<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Demora na execução<->Plano<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Mau Atendimento<->Planos de Saúde<->Hapvida Saúde
+Mau atendimento do prestador de serviço<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+"Demora para autorização de consultas, exames e cirurgias<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde"
+Reembolso de pagamento<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Rede credenciada-Descredenciamento<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Reembolso de pagamento<->Plano<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Cobrança indevida<->Planos de Saúde<->Hapvida Saúde
+Plano<->Planos de Saúde<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Planos de saúde<->Não encontrei meu problema<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Qualidade do serviço prestado<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Demora na execução<->Planos de Saúde<->Administrativo<->Hapvida Saúde
+"Demora para autorização de consultas, exames e cirurgias<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde"
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Reembolso de pagamento<->Plano<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Exames Lab e imagens<->Atraso na entrega dos resultados<->Exames Lab. e imagem<->Hapvida Saúde
+Problemas com o Atendimento<->Equipe de Atendimento<->Mau Atendimento<->Hapvida Saúde
+Planos de saúde<->Qualidade do serviço prestado<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Hapvida Saúde<->Clínicas Médicas<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Hapvida Saúde<->Clínicas Médicas<->Dificuldade para agendamento de exames-consultas
+Não consigo cancelar<->Planos de Saúde<->Administrativo<->Hapvida Saúde
+Qualidade do serviço prestado<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Problemas com o Atendimento<->Equipe de Atendimento<->Mau Atendimento<->Hapvida Saúde
+Hapvida Saúde<->Não encontrei meu problema<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+"Demora para autorização de consultas, exames e cirurgias<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde"
+Planos de saúde<->Mau Atendimento<->Planos de Saúde<->Hapvida Saúde
+Hapvida Saúde<->Não encontrei meu problema<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Problemas com o Atendimento<->Equipe de Atendimento<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Demora na execução<->Plano<->Planos de Saúde<->Hapvida Saúde
+Problemas com o Atendimento<->Equipe de Atendimento<->Mau Atendimento<->Hapvida Saúde
+Problemas com o Atendimento<->Qualidade do serviço prestado<->Equipe de Atendimento<->Hapvida Saúde
+Plano<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Cobrança indevida<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Plano<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Agendamento<->Planos de Saúde<->Administrativo<->Hapvida Saúde
+Plano<->Planos de Saúde<->Cobrança indevida<->Hapvida Saúde
+"Demora para autorização de consultas, exames e cirurgias<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde"
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde
+Demora na execução<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Demora na execução<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Mau Atendimento<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Qualidade do serviço prestado<->Não encontrei meu problema<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Rede credenciada-Descredenciamento<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Plano<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+"Demora para autorização de consultas, exames e cirurgias<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde"
+Planos de saúde<->Mau Atendimento<->Planos de Saúde<->Hapvida Saúde
+Não encontrei meu problema<->Hapvida Saúde
+"Demora para autorização de consultas, exames e cirurgias<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde"
+Seguro de saúde<->Reembolso de pagamento<->Exames Lab. e imagem<->Hapvida Saúde
+Plano<->Não encontrei meu problema<->Hapvida Saúde
+"Planos de saúde<->Demora para autorização de consultas, exames e cirurgias<->Clínicas Médicas<->Hapvida Saúde"
+Demora na execução<->Plano<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Não encontrei meu problema<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Valor abusivo<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Exames Lab e imagens<->Mau Atendimento<->Exames Lab. e imagem<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Problemas com o Atendimento<->Equipe de Atendimento<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Plano<->Planos de Saúde<->Qualidade do serviço prestado<->Hapvida Saúde
+Mau Atendimento<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Qualidade do serviço prestado<->Planos de Saúde<->Hapvida Saúde
+Plano<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Qualidade do serviço prestado<->Equipe de Atendimento<->Não encontrei meu problema<->Hapvida Saúde
+Planos de saúde<->Qualidade do serviço prestado<->Planos de Saúde<->Hapvida Saúde
+Não consigo cancelar<->Planos de Saúde<->Administrativo<->Hapvida Saúde
+Plano<->Planos de Saúde<->Hapvida Saúde<->Reembolso de consulta-exame
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+"Demora para autorização de consultas, exames e cirurgias<->Plano<->Planos de Saúde<->Hapvida Saúde"
+Demora na execução<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Problemas com o Atendimento<->Equipe de Atendimento<->Mau Atendimento<->Hapvida Saúde
+"Demora para autorização de consultas, exames e cirurgias<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde"
+Hapvida Saúde
+Qualidade do serviço prestado<->Plano<->Não encontrei meu problema<->Hapvida Saúde
+Exames Lab e imagens<->Mau Atendimento<->Exames Lab. e imagem<->Hapvida Saúde
+Leitos<->Mau Atendimento<->Não encontrei meu problema<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Demora na execução<->Clínicas Médicas<->Hapvida Saúde
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Problemas com o Atendimento<->Canais de Atendimento<->Demora na execução<->Hapvida Saúde
+Planos de saúde<->Qualidade do serviço prestado<->Clínicas Médicas<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Exames Lab e imagens<->Hapvida Saúde<->Exames Lab. e imagem<->Atraso no exame
+"Demora para autorização de consultas, exames e cirurgias<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde"
+Não consigo cancelar<->Não encontrei meu problema<->Administrativo<->Hapvida Saúde
+"Demora para autorização de consultas, exames e cirurgias<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde"
+Demora na execução<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde
+Plano<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Problemas com o Atendimento<->Equipe de Atendimento<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Planos de saúde<->Qualidade do serviço prestado<->Planos de Saúde<->Hapvida Saúde
+Agendamento<->Planos de Saúde<->Administrativo<->Hapvida Saúde
+Seguro de saúde<->Reembolso de pagamento<->Não encontrei meu problema<->Hapvida Saúde
+Equipe de Atendimento<->Não encontrei meu problema<->Mau Atendimento<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Demora na execução<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Falta de cobertura de exames<->Plano<->Planos de Saúde<->Hapvida Saúde
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Problemas com o Atendimento<->Equipe de Atendimento<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Demora na execução<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde
+Plano<->Planos de Saúde<->Cobrança indevida<->Hapvida Saúde
+Clinicas Odontológicas<->Demora na execução<->Administrativo<->Hapvida Saúde
+Plano<->Mau Atendimento<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Qualidade do serviço prestado<->Planos de Saúde<->Hapvida Saúde
+Mau Atendimento<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Mau Atendimento<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Qualidade do serviço prestado<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Plano<->Planos de Saúde<->Qualidade do serviço prestado<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Administrativo<->Hapvida Saúde
+Hapvida Saúde<->Não encontrei meu problema<->Rede de Atendimento<->Propaganda enganosa
+"Demora para autorização de consultas, exames e cirurgias<->Plano<->Planos de Saúde<->Hapvida Saúde"
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Hapvida Saúde
+Resultado de exames extraviados<->Exames Lab e imagens<->Exames Lab. e imagem<->Hapvida Saúde
+Plano<->Planos de Saúde<->Cobrança indevida<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde
+Agendamento<->Planos de Saúde<->Administrativo<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Problemas com o Atendimento<->Qualidade do serviço prestado<->Equipe de Atendimento<->Hapvida Saúde
+Plano<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Cobrança indevida<->Hapvida Saúde
+Exames Lab e imagens<->Mau Atendimento<->Exames Lab. e imagem<->Hapvida Saúde
+Planos de saúde<->Cobrança indevida<->Planos de Saúde<->Hapvida Saúde
+"Demora para autorização de consultas, exames e cirurgias<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde"
+Equipe de Atendimento<->Não encontrei meu problema<->Mau Atendimento<->Hapvida Saúde
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Demora na execução<->Plano<->Planos de Saúde<->Hapvida Saúde
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Não consigo cancelar<->Planos de Saúde<->Administrativo<->Hapvida Saúde
+Mau Atendimento<->Não encontrei meu problema<->Rede de Atendimento<->Hapvida Saúde
+"Demora para autorização de consultas, exames e cirurgias<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde"
+Demora na execução<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde
+Resultado de exames extraviados<->Exames Lab e imagens<->Exames Lab. e imagem<->Hapvida Saúde
+Plano<->Planos de Saúde<->Qualidade do serviço prestado<->Hapvida Saúde
+Qualidade do serviço prestado<->Não encontrei meu problema<->Rede de Atendimento<->Hapvida Saúde
+Plano<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Reajuste abusivo<->Planos de Saúde<->Hapvida Saúde
+"Demora para autorização de consultas, exames e cirurgias<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde"
+Mau Atendimento<->Não encontrei meu problema<->Rede de Atendimento<->Hapvida Saúde
+Problemas com o Atendimento<->Canais de Atendimento<->Hapvida Saúde
+Mau Atendimento<->Planos de Saúde<->Administrativo<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Qualidade do serviço prestado<->Não encontrei meu problema<->Rede de Atendimento<->Hapvida Saúde
+Cancelamento de exame<->Exames Lab e imagens<->Exames Lab. e imagem<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Problemas com o Atendimento<->Qualidade do serviço prestado<->Canais de Atendimento<->Hapvida Saúde
+Problemas com o Atendimento<->Canais de Atendimento<->Hapvida Saúde
+"Demora para autorização de consultas, exames e cirurgias<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde"
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Qualidade do serviço prestado<->Equipe de Atendimento<->Não encontrei meu problema<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+"Demora para autorização de consultas, exames e cirurgias<->Plano<->Planos de Saúde<->Hapvida Saúde"
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Exames Lab e imagens<->Atraso na entrega dos resultados<->Exames Lab. e imagem<->Hapvida Saúde
+"Demora para autorização de consultas, exames e cirurgias<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde"
+Reembolso de pagamento<->Plano<->Planos de Saúde<->Hapvida Saúde
+Plano<->Planos de Saúde<->Qualidade do serviço prestado<->Hapvida Saúde
+Planos de saúde<->Mau Atendimento<->Clínicas Médicas<->Hapvida Saúde
+Planos de saúde<->Hapvida Saúde<->Clínicas Médicas<->Dificuldade para agendamento de exames-consultas
+Equipe de Atendimento<->Não encontrei meu problema<->Mau Atendimento<->Hapvida Saúde
+Plano<->Planos de Saúde<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Problemas com o Atendimento<->Qualidade do serviço prestado<->Equipe de Atendimento<->Hapvida Saúde
+Plano<->Planos de Saúde<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Plano<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Mau Atendimento<->Planos de Saúde<->Hapvida Saúde
+Plano<->Não encontrei meu problema<->Hapvida Saúde
+Planos de saúde<->Hapvida Saúde<->Clínicas Médicas<->Dificuldade para agendamento de exames-consultas
+Demora na execução<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Plano<->Planos de Saúde<->Cobrança indevida<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Exames Lab e imagens<->Qualidade do serviço prestado<->Exames Lab. e imagem<->Hapvida Saúde
+Planos de saúde<->Mau atendimento do prestador de serviço<->Clínicas Médicas<->Hapvida Saúde
+Problemas com o Atendimento<->Canais de Atendimento<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Equipe de Atendimento<->Não encontrei meu problema<->Mau Atendimento<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Plano<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Mau atendimento do prestador de serviço<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Plano<->Mau Atendimento<->Planos de Saúde<->Hapvida Saúde
+"Demora para autorização de consultas, exames e cirurgias<->Plano<->Não encontrei meu problema<->Hapvida Saúde"
+Planos de saúde<->Não encontrei meu problema<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Hapvida Saúde<->Não encontrei meu problema<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Reembolso de pagamento<->Plano<->Não encontrei meu problema<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Planos de saúde<->Mau Atendimento<->Clínicas Médicas<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Banheiro<->Problemas de infraestrutura<->Exames Lab. e imagem<->Hapvida Saúde
+Planos de saúde<->Não encontrei meu problema<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Não consigo cancelar<->Planos de Saúde<->Administrativo<->Hapvida Saúde
+Mau atendimento do prestador de serviço<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Não consigo cancelar<->Não encontrei meu problema<->Administrativo<->Hapvida Saúde
+Reembolso de pagamento<->Plano<->Planos de Saúde<->Hapvida Saúde
+Exames Lab e imagens<->Hapvida Saúde<->Exames Lab. e imagem<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Plano<->Planos de Saúde<->Cobrança indevida<->Hapvida Saúde
+Plano<->Não encontrei meu problema<->Hapvida Saúde<->Solicitação de exame não atendida
+Planos de saúde<->Cobrança indevida<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Plano<->Planos de Saúde<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Plano<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Horário de atendimento<->Planos de Saúde<->Hapvida Saúde
+Plano<->Planos de Saúde<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+"Demora para autorização de consultas, exames e cirurgias<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde"
+Plano<->Planos de Saúde<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Plano<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Equipe de Atendimento<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Problemas com o Atendimento<->Qualidade do serviço prestado<->Equipe de Atendimento<->Hapvida Saúde
+"Demora para autorização de consultas, exames e cirurgias<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde"
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Demora na execução<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+"Demora para autorização de consultas, exames e cirurgias<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde"
+Planos de saúde<->Qualidade do serviço prestado<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Plano<->Mau Atendimento<->Planos de Saúde<->Hapvida Saúde
+Problemas com o Atendimento<->Equipe de Atendimento<->Horário de atendimento<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Demora na execução<->Plano<->Não encontrei meu problema<->Hapvida Saúde
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Rede credenciada-Descredenciamento<->Não encontrei meu problema<->Rede de Atendimento<->Hapvida Saúde
+Planos de saúde<->Cobrança indevida<->Planos de Saúde<->Hapvida Saúde
+Hapvida Saúde<->Não encontrei meu problema<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Qualidade do serviço prestado<->Planos de Saúde<->Hapvida Saúde
+Plano<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Não consigo cancelar<->Planos de Saúde<->Administrativo<->Hapvida Saúde
+Planos de saúde<->Cobrança indevida<->Não encontrei meu problema<->Hapvida Saúde
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Agendamento<->Planos de Saúde<->Administrativo<->Hapvida Saúde
+Mau atendimento do prestador de serviço<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Planos de saúde<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Hapvida Saúde<->Clínicas Médicas<->Dificuldade para agendamento de exames-consultas
+Não encontrei meu problema<->Rede de Atendimento<->Hapvida Saúde
+Exames Lab e imagens<->Hapvida Saúde<->Exames Lab. e imagem<->Dificuldade para agendamento dos exames
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Problemas com o Atendimento<->Equipe de Atendimento<->Mau Atendimento<->Hapvida Saúde
+Planos de saúde<->Horário de atendimento<->Planos de Saúde<->Hapvida Saúde
+Mau Atendimento<->Não encontrei meu problema<->Administrativo<->Hapvida Saúde
+Qualidade do serviço prestado<->Equipe de Atendimento<->Não encontrei meu problema<->Hapvida Saúde
+Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+"Demora para autorização de consultas, exames e cirurgias<->Plano<->Planos de Saúde<->Hapvida Saúde"
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Demora na execução<->Plano<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Problemas com o Atendimento<->Equipe de Atendimento<->Mau Atendimento<->Hapvida Saúde
+Exames Lab e imagens<->Hapvida Saúde<->Exames Lab. e imagem<->Dificuldade para agendamento de exames-consultas
+Plano<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Plano<->Planos de Saúde<->Hapvida Saúde<->Propaganda enganosa
+Mau Atendimento<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Plano<->Planos de Saúde<->Hapvida Saúde<->Reembolso de consulta-exame
+Descumprimento de prazo<->Planos de Saúde<->Administrativo<->Hapvida Saúde
+Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Cobrança indevida<->Planos de Saúde<->Hapvida Saúde
+"Demora para autorização de consultas, exames e cirurgias<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde"
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Mau Atendimento<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Problemas com o Atendimento<->Equipe de Atendimento<->Mau Atendimento<->Hapvida Saúde
+Problemas com o Atendimento<->Canais de Atendimento<->Mau Atendimento<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Plano<->Não encontrei meu problema<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Plano<->Não encontrei meu problema<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Exames Lab e imagens<->Atraso na entrega dos resultados<->Não encontrei meu problema<->Hapvida Saúde
+Problemas com o Atendimento<->Equipe de Atendimento<->Mau Atendimento<->Hapvida Saúde
+Planos de saúde<->Qualidade do serviço prestado<->Planos de Saúde<->Hapvida Saúde
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Reembolso de pagamento<->Plano<->Planos de Saúde<->Hapvida Saúde
+Plano<->Planos de Saúde<->Cobrança indevida<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Exames Lab e imagens<->Não encontrei meu problema<->Hapvida Saúde<->Precariedade de informações
+Exames Lab e imagens<->Não encontrei meu problema<->Hapvida Saúde<->Dificuldade para agendamento dos exames
+Reembolso de pagamento<->Plano<->Planos de Saúde<->Hapvida Saúde
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Qualidade do serviço prestado<->Planos de Saúde<->Hapvida Saúde
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Demora na execução<->Planos de Saúde<->Administrativo<->Hapvida Saúde
+Planos de saúde<->Mau Atendimento<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Qualidade do serviço prestado<->Planos de Saúde<->Hapvida Saúde
+Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Hapvida Saúde<->Qualidade do serviço prestado<->Clínicas Médicas<->Administrativo
+"Demora para autorização de consultas, exames e cirurgias<->Plano<->Planos de Saúde<->Hapvida Saúde"
+Planos de saúde<->Planos de Saúde<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Demora na execução<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Plano<->Planos de Saúde<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+"Demora para autorização de consultas, exames e cirurgias<->Plano<->Planos de Saúde<->Hapvida Saúde"
+Plano<->Planos de Saúde<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Qualidade do serviço prestado<->Não encontrei meu problema<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+"Demora para autorização de consultas, exames e cirurgias<->Plano<->Planos de Saúde<->Hapvida Saúde"
+Qualidade do serviço prestado<->Plano<->Não encontrei meu problema<->Hapvida Saúde
+Plano<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Atraso na entrega<->Plano<->Planos de Saúde<->Hapvida Saúde
+Problemas com o Atendimento<->Equipe de Atendimento<->Mau Atendimento<->Hapvida Saúde
+Planos de saúde<->Qualidade do serviço prestado<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Plano<->Mau Atendimento<->Planos de Saúde<->Hapvida Saúde
+Demora na execução<->Não encontrei meu problema<->Hapvida Saúde
+Plano<->Planos de Saúde<->Qualidade do serviço prestado<->Hapvida Saúde
+Plano<->Planos de Saúde<->Hapvida Saúde<->Reembolso de consulta-exame
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Qualidade do serviço prestado<->Não encontrei meu problema<->Rede de Atendimento<->Hapvida Saúde
+Plano<->Planos de Saúde<->Hapvida Saúde<->Estorno do valor pago
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Mau Atendimento<->Planos de Saúde<->Hapvida Saúde
+Problemas com o Atendimento<->Equipe de Atendimento<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Rede credenciada-Descredenciamento<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Hapvida Saúde<->Não encontrei meu problema<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Plano<->Planos de Saúde<->Qualidade do serviço prestado<->Hapvida Saúde
+Problemas com o Atendimento<->Equipe de Atendimento<->Mau Atendimento<->Hapvida Saúde
+Problemas com o Atendimento<->Canais de Atendimento<->Mau Atendimento<->Hapvida Saúde
+Exames Lab e imagens<->Mau Atendimento<->Exames Lab. e imagem<->Hapvida Saúde
+Qualidade do serviço prestado<->Equipe de Atendimento<->Não encontrei meu problema<->Hapvida Saúde
+Mau atendimento do prestador de serviço<->Planos de Saúde<->Administrativo<->Hapvida Saúde
+"Demora para autorização de consultas, exames e cirurgias<->Plano<->Planos de Saúde<->Hapvida Saúde"
+Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+"Demora para autorização de consultas, exames e cirurgias<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde"
+Planos de saúde<->Planos de Saúde<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Agendamento<->Não encontrei meu problema<->Administrativo<->Hapvida Saúde
+Reembolso de pagamento<->Plano<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Cobrança indevida<->Planos de Saúde<->Hapvida Saúde
+Não consigo cancelar<->Planos de Saúde<->Administrativo<->Hapvida Saúde
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Plano<->Mau Atendimento<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Qualidade do serviço prestado<->Planos de Saúde<->Hapvida Saúde
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Não consigo cancelar<->Planos de Saúde<->Administrativo<->Hapvida Saúde
+Plano<->Mau Atendimento<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Plano<->Mau Atendimento<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+"Demora para autorização de consultas, exames e cirurgias<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde"
+Hapvida Saúde<->Agendamento<->Clínicas Médicas<->Administrativo
+Plano<->Planos de Saúde<->Hapvida Saúde<->Reembolso de consulta-exame
+"Demora para autorização de consultas, exames e cirurgias<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde"
+Planos de saúde<->Qualidade do serviço prestado<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Cobrança indevida<->Planos de Saúde<->Hapvida Saúde
+Não consigo cancelar<->Planos de Saúde<->Administrativo<->Hapvida Saúde
+Problemas com o Atendimento<->Equipe de Atendimento<->Mau Atendimento<->Hapvida Saúde
+Reembolso de pagamento<->Plano<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Qualidade do serviço prestado<->Planos de Saúde<->Hapvida Saúde
+Problemas com o Atendimento<->Canais de Atendimento<->Mau Atendimento<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Não encontrei meu problema<->Hapvida Saúde
+Hapvida Saúde<->Não encontrei meu problema<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+"Demora para autorização de consultas, exames e cirurgias<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde"
+Qualidade do serviço prestado<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Demora na execução<->Não encontrei meu problema<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Hapvida Saúde<->Não encontrei meu problema<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Qualidade do serviço prestado<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Plano<->Planos de Saúde<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Plano<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Problemas com o Atendimento<->Canais de Atendimento<->Mau Atendimento<->Hapvida Saúde
+Planos de saúde<->Mau Atendimento<->Planos de Saúde<->Hapvida Saúde
+Plano<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Mau atendimento do prestador de serviço<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Plano<->Planos de Saúde<->Hapvida Saúde<->Reembolso de consulta-exame
+Problemas com o Atendimento<->Qualidade do serviço prestado<->Equipe de Atendimento<->Hapvida Saúde
+Cobrança indevida<->Plano<->Não encontrei meu problema<->Hapvida Saúde
+Exames Lab e imagens<->Qualidade do serviço prestado<->Exames Lab. e imagem<->Hapvida Saúde
+Dificuldade de contato com o SAC<->Equipe de Atendimento<->Não encontrei meu problema<->Hapvida Saúde
+Plano<->Planos de Saúde<->Qualidade do serviço prestado<->Hapvida Saúde
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Plano<->Planos de Saúde<->Cobrança indevida<->Hapvida Saúde
+Hapvida Saúde<->Não encontrei meu problema<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+"Demora para autorização de consultas, exames e cirurgias<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde"
+"Demora para autorização de consultas, exames e cirurgias<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde"
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+"Planos de saúde<->Demora para autorização de consultas, exames e cirurgias<->Clínicas Médicas<->Hapvida Saúde"
+Plano<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Demora na execução<->Planos de Saúde<->Administrativo<->Hapvida Saúde
+Demora na execução<->Planos de Saúde<->Administrativo<->Hapvida Saúde
+Hapvida Saúde
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Plano<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Problemas com o Atendimento<->Equipe de Atendimento<->Demora na execução<->Hapvida Saúde
+Falta de cobertura de exames<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde
+Atualização de dados cadastrais<->Plano<->Não encontrei meu problema<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Plano<->Planos de Saúde<->Cobrança indevida<->Hapvida Saúde
+Reembolso de pagamento<->Plano<->Planos de Saúde<->Hapvida Saúde
+Agendamento<->Planos de Saúde<->Administrativo<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Plano<->Planos de Saúde<->Qualidade do serviço prestado<->Hapvida Saúde
+Qualidade do serviço prestado<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+"Demora para autorização de consultas, exames e cirurgias<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde"
+Exames Lab e imagens<->Qualidade do serviço prestado<->Exames Lab. e imagem<->Hapvida Saúde
+Cobrança indevida<->Planos de Saúde<->Administrativo<->Hapvida Saúde
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Hapvida Saúde<->Clinicas Odontológicas<->Administrativo<->Não consigo cancelar
+"Demora para autorização de consultas, exames e cirurgias<->Plano<->Planos de Saúde<->Hapvida Saúde"
+Problemas com o Atendimento<->Equipe de Atendimento<->Mau Atendimento<->Hapvida Saúde
+Demora na execução<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Não encontrei meu problema<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Qualidade do serviço prestado<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+"Demora para autorização de consultas, exames e cirurgias<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde"
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Estorno do valor pago
+Planos de saúde<->Não encontrei meu problema<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Cobrança indevida<->Não encontrei meu problema<->Rede de Atendimento<->Hapvida Saúde
+Cobrança indevida<->Não encontrei meu problema<->Rede de Atendimento<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Cobrança indevida<->Não encontrei meu problema<->Administrativo<->Hapvida Saúde
+Qualidade do serviço prestado<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Plano<->Não encontrei meu problema<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Plano<->Planos de Saúde<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Mau Atendimento<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Agendamento<->Planos de Saúde<->Administrativo<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Problemas com o Atendimento<->Equipe de Atendimento<->Hapvida Saúde
+Mau Atendimento<->Planos de Saúde<->Administrativo<->Hapvida Saúde
+Demora na execução<->Plano<->Planos de Saúde<->Hapvida Saúde
+"Demora para autorização de consultas, exames e cirurgias<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde"
+Descumprimento de prazo<->Planos de Saúde<->Administrativo<->Hapvida Saúde
+Equipe de Atendimento<->Não encontrei meu problema<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Qualidade do serviço prestado<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Não consigo cancelar<->Planos de Saúde<->Administrativo<->Hapvida Saúde
+Cobrança indevida<->Rede de Atendimento<->Hapvida Saúde
+"Demora para autorização de consultas, exames e cirurgias<->Plano<->Planos de Saúde<->Hapvida Saúde"
+"Demora para autorização de consultas, exames e cirurgias<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde"
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Resultado de exames extraviados<->Exames Lab e imagens<->Exames Lab. e imagem<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Falta de cobertura de exames<->Plano<->Planos de Saúde<->Hapvida Saúde
+Problemas com o Atendimento<->Canais de Atendimento<->Mau Atendimento<->Hapvida Saúde
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Não encontrei meu problema<->Hapvida Saúde
+Qualidade do serviço prestado<->Não encontrei meu problema<->Rede de Atendimento<->Hapvida Saúde
+Problemas com o Atendimento<->Qualidade do serviço prestado<->Equipe de Atendimento<->Hapvida Saúde
+Planos de saúde<->Mau Atendimento<->Planos de Saúde<->Hapvida Saúde
+Mau atendimento do prestador de serviço<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Demora na execução<->Não encontrei meu problema<->Rede de Atendimento<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Plano<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Demora na execução<->Não encontrei meu problema<->Rede de Atendimento<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Demora na execução<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde
+Qualidade do serviço prestado<->Não encontrei meu problema<->Administrativo<->Hapvida Saúde
+Indisponibilidade de horários<->Planos de Saúde<->Administrativo<->Hapvida Saúde
+Planos de saúde<->Mau Atendimento<->Não encontrei meu problema<->Hapvida Saúde
+Plano<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+"Demora para autorização de consultas, exames e cirurgias<->Plano<->Planos de Saúde<->Hapvida Saúde"
+Exames Lab e imagens<->Hapvida Saúde<->Exames Lab. e imagem<->Dificuldade para agendamento de exames-consultas
+Reembolso de pagamento<->Plano<->Planos de Saúde<->Hapvida Saúde
+Mau Atendimento<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Demora na execução<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Planos de saúde<->Cobrança indevida<->Clínicas Médicas<->Hapvida Saúde
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Reembolso de consulta-exame
+Planos de saúde<->Qualidade do serviço prestado<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Mau Atendimento<->Clínicas Médicas<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Mau Atendimento<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Hapvida Saúde<->Não encontrei meu problema<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Problemas com o Atendimento<->Equipe de Atendimento<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+"Planos de saúde<->Demora para autorização de consultas, exames e cirurgias<->Não encontrei meu problema<->Hapvida Saúde"
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Plano<->Planos de Saúde<->Cobrança indevida<->Hapvida Saúde
+Plano<->Planos de Saúde<->Hapvida Saúde<->Reembolso de consulta-exame
+Qualidade do serviço prestado<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Cobrança indevida<->Plano<->Não encontrei meu problema<->Hapvida Saúde
+Plano<->Planos de Saúde<->Cobrança indevida<->Hapvida Saúde
+Demora na execução<->Não encontrei meu problema<->Administrativo<->Hapvida Saúde
+Problemas com o Atendimento<->Equipe de Atendimento<->Demora na execução<->Hapvida Saúde
+Planos de saúde<->Hapvida Saúde<->Clínicas Médicas<->Dificuldade para agendamento de exames-consultas
+Cobrança indevida<->Plano<->Não encontrei meu problema<->Hapvida Saúde
+Hapvida Saúde
+Planos de saúde<->Mau Atendimento<->Planos de Saúde<->Hapvida Saúde
+Demora na execução<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Não encontrei meu problema<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Problemas com o Atendimento<->Canais de Atendimento<->Demora na execução<->Hapvida Saúde
+Planos de saúde<->Qualidade do serviço prestado<->Planos de Saúde<->Hapvida Saúde
+Mau atendimento do prestador de serviço<->Não encontrei meu problema<->Administrativo<->Hapvida Saúde
+Mau Atendimento<->Rede de Atendimento<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Exames Lab e imagens<->Hapvida Saúde<->Exames Lab. e imagem<->Solicitação de exame não atendida
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Mau Atendimento<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Problemas com o Atendimento<->Qualidade do serviço prestado<->Equipe de Atendimento<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Mau Atendimento<->Não encontrei meu problema<->Rede de Atendimento<->Hapvida Saúde
+Plano<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Problemas com o Atendimento<->Equipe de Atendimento<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Problemas com o Atendimento<->Equipe de Atendimento<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Plano<->Planos de Saúde<->Qualidade do serviço prestado<->Hapvida Saúde
+"Demora para autorização de consultas, exames e cirurgias<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde"
+"Demora para autorização de consultas, exames e cirurgias<->Plano<->Planos de Saúde<->Hapvida Saúde"
+Mau Atendimento<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Planos de saúde<->Hapvida Saúde<->Clínicas Médicas<->Dificuldade para agendamento de exames-consultas
+Atualização de dados cadastrais<->Plano<->Planos de Saúde<->Hapvida Saúde
+"Problemas com o Atendimento<->Canais de Atendimento<->Demora para autorização de consultas, exames e cirurgias<->Hapvida Saúde"
+Plano<->Planos de Saúde<->Hapvida Saúde<->Reembolso de consulta-exame
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Demora na execução<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Demora na execução<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde
+Plano<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Plano<->Planos de Saúde<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Demora na execução<->Não encontrei meu problema<->Rede de Atendimento<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Cobrança indevida<->Planos de Saúde<->Hapvida Saúde
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Mau Atendimento<->Não encontrei meu problema<->Administrativo<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+"Demora para autorização de consultas, exames e cirurgias<->Plano<->Planos de Saúde<->Hapvida Saúde"
+Demora na execução<->Plano<->Planos de Saúde<->Hapvida Saúde
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Plano<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Seguro de saúde<->Reembolso de pagamento<->Clínicas Médicas<->Hapvida Saúde
+Qualidade do serviço prestado<->Plano<->Não encontrei meu problema<->Hapvida Saúde
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Não encontrei meu problema<->Hapvida Saúde
+Planos de saúde<->Mau Atendimento<->Planos de Saúde<->Hapvida Saúde
+Plano<->Planos de Saúde<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Resultado de exames extraviados<->Exames Lab e imagens<->Exames Lab. e imagem<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+"Demora para autorização de consultas, exames e cirurgias<->Plano<->Planos de Saúde<->Hapvida Saúde"
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Qualidade do serviço prestado<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Reembolso de pagamento<->Plano<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Hapvida Saúde<->Clínicas Médicas<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Mau Atendimento<->Planos de Saúde<->Hapvida Saúde
+Cobrança indevida<->Não encontrei meu problema<->Administrativo<->Hapvida Saúde
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Cobrança indevida<->Plano<->Não encontrei meu problema<->Hapvida Saúde
+Plano<->Planos de Saúde<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Plano<->Planos de Saúde<->Hapvida Saúde<->Reembolso de consulta-exame
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde
+Mau Atendimento<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Equipe de Atendimento<->Não encontrei meu problema<->Mau Atendimento<->Hapvida Saúde
+Demora na execução<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde
+Problemas com o Atendimento<->Equipe de Atendimento<->Mau Atendimento<->Hapvida Saúde
+Planos de saúde<->Qualidade do serviço prestado<->Planos de Saúde<->Hapvida Saúde
+Demora na execução<->Não encontrei meu problema<->Hapvida Saúde
+Qualidade do serviço prestado<->Plano<->Não encontrei meu problema<->Hapvida Saúde
+Demora na execução<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Plano<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+"Demora para autorização de consultas, exames e cirurgias<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde"
+"Demora para autorização de consultas, exames e cirurgias<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde"
+Planos de saúde<->Hapvida Saúde<->Clínicas Médicas<->Dificuldade para agendamento de exames-consultas
+Plano<->Não encontrei meu problema<->Hapvida Saúde<->Solicitação de exame não atendida
+Exames Lab e imagens<->Qualidade do serviço prestado<->Exames Lab. e imagem<->Hapvida Saúde
+Planos de saúde<->Hapvida Saúde<->Clínicas Médicas<->Dificuldade para agendamento de exames-consultas
+Demora na execução<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde
+Mau Atendimento<->Planos de Saúde<->Administrativo<->Hapvida Saúde
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Agendamento<->Não encontrei meu problema<->Administrativo<->Hapvida Saúde
+Planos de saúde<->Mau Atendimento<->Planos de Saúde<->Hapvida Saúde
+Plano<->Planos de Saúde<->Qualidade do serviço prestado<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Plano<->Planos de Saúde<->Qualidade do serviço prestado<->Hapvida Saúde
+Falta de cobertura de exames<->Plano<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Problemas com o Atendimento<->Equipe de Atendimento<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+"Demora para autorização de consultas, exames e cirurgias<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde"
+Planos de saúde<->Planos de Saúde<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Planos de saúde<->Hapvida Saúde<->Clínicas Médicas<->Dificuldade para agendamento de exames-consultas
+Plano<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Problemas com o Atendimento<->Canais de Atendimento<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Plano<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Problemas com o Atendimento<->Canais de Atendimento<->Demora na execução<->Hapvida Saúde
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Portabilidade<->Planos de Saúde<->Hapvida Saúde
+Plano<->Planos de Saúde<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Planos de saúde<->Não encontrei meu problema<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Plano<->Planos de Saúde<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Problemas com o Atendimento<->Qualidade do serviço prestado<->Canais de Atendimento<->Hapvida Saúde
+Problemas com o Atendimento<->Equipe de Atendimento<->Demora na execução<->Hapvida Saúde
+Plano<->Planos de Saúde<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Problemas com o Atendimento<->Equipe de Atendimento<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+"Planos de saúde<->Demora para autorização de consultas, exames e cirurgias<->Não encontrei meu problema<->Hapvida Saúde"
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Cobrança indevida<->Plano<->Não encontrei meu problema<->Hapvida Saúde
+Equipe de Atendimento<->Não encontrei meu problema<->Mau Atendimento<->Hapvida Saúde
+Hapvida Saúde
+Problemas com o Atendimento<->Qualidade do serviço prestado<->Equipe de Atendimento<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Cobrança indevida<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Hapvida Saúde<->Clínicas Médicas<->Dificuldade para agendamento de exames-consultas
+Problemas com o Atendimento<->Equipe de Atendimento<->Mau Atendimento<->Hapvida Saúde
+Reembolso de pagamento<->Plano<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Reajuste abusivo<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Plano<->Planos de Saúde<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Mau Atendimento<->Planos de Saúde<->Administrativo<->Hapvida Saúde
+Exames Lab e imagens<->Não encontrei meu problema<->Atraso no exame<->Hapvida Saúde
+"Demora para autorização de consultas, exames e cirurgias<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde"
+Exames Lab e imagens<->Demora na execução<->Exames Lab. e imagem<->Hapvida Saúde
+Problemas com o Atendimento<->Canais de Atendimento<->Mau Atendimento<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde
+Demora na execução<->Plano<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Mau Atendimento<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Mau atendimento do prestador de serviço<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Problemas com o Atendimento<->Qualidade do serviço prestado<->Canais de Atendimento<->Hapvida Saúde
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Qualidade do serviço prestado<->Não encontrei meu problema<->Hapvida Saúde
+Problemas com o Atendimento<->Qualidade do serviço prestado<->Equipe de Atendimento<->Hapvida Saúde
+Demora na execução<->Plano<->Planos de Saúde<->Hapvida Saúde
+"Demora para autorização de consultas, exames e cirurgias<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde"
+Exames Lab e imagens<->Hapvida Saúde<->Exames Lab. e imagem<->Dificuldade para agendamento de exames-consultas
+Plano<->Planos de Saúde<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+"Demora para autorização de consultas, exames e cirurgias<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde"
+Problemas com o Atendimento<->Equipe de Atendimento<->Mau Atendimento<->Hapvida Saúde
+Plano<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Problemas com o Atendimento<->Canais de Atendimento<->Mau Atendimento<->Hapvida Saúde
+"Demora para autorização de consultas, exames e cirurgias<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde"
+Planos de saúde<->Mau Atendimento<->Planos de Saúde<->Hapvida Saúde
+Hapvida Saúde
+Demora na execução<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Exames Lab e imagens<->Atraso na entrega dos resultados<->Exames Lab. e imagem<->Hapvida Saúde
+Hapvida Saúde<->Não encontrei meu problema<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Não encontrei meu problema<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Cobrança indevida<->Não encontrei meu problema<->Administrativo<->Hapvida Saúde
+Mau atendimento do prestador de serviço<->Não encontrei meu problema<->Administrativo<->Hapvida Saúde
+Plano<->Planos de Saúde<->Hapvida Saúde
+Demora na execução<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Plano<->Planos de Saúde<->Hapvida Saúde<->Reembolso de consulta-exame
+Mau atendimento do prestador de serviço<->Planos de Saúde<->Administrativo<->Hapvida Saúde
+Problemas com o Atendimento<->Equipe de Atendimento<->Demora na execução<->Hapvida Saúde
+Plano<->Planos de Saúde<->Cobrança indevida<->Hapvida Saúde
+Plano<->Mau Atendimento<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Agendamento<->Planos de Saúde<->Administrativo<->Hapvida Saúde
+Plano<->Mau Atendimento<->Planos de Saúde<->Hapvida Saúde
+Exames Lab e imagens<->Hapvida Saúde<->Exames Lab. e imagem<->Dificuldade para agendamento de exames-consultas
+Qualidade do serviço prestado<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Exames Lab e imagens<->Mau atendimento do prestador de serviço<->Exames Lab. e imagem<->Hapvida Saúde
+Clinicas Odontológicas<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Problemas com o Atendimento<->Equipe de Atendimento<->Mau Atendimento<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Qualidade do serviço prestado<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Planos de saúde<->Mau Atendimento<->Planos de Saúde<->Hapvida Saúde
+Plano<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Plano<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Hapvida Saúde
+Qualidade do serviço prestado<->Não encontrei meu problema<->Rede de Atendimento<->Hapvida Saúde
+Não consigo cancelar<->Planos de Saúde<->Administrativo<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Reembolso de pagamento<->Plano<->Planos de Saúde<->Hapvida Saúde
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Rede credenciada-Descredenciamento<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Problemas com o Atendimento<->Canais de Atendimento<->Mau Atendimento<->Hapvida Saúde
+Planos de saúde<->Mau Atendimento<->Planos de Saúde<->Hapvida Saúde
+Plano<->Planos de Saúde<->Qualidade do serviço prestado<->Hapvida Saúde
+Qualidade do serviço prestado<->Planos de Saúde<->Administrativo<->Hapvida Saúde
+Mau atendimento do prestador de serviço<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Problemas com o Atendimento<->Canais de Atendimento<->Hapvida Saúde
+Planos de saúde<->Não encontrei meu problema<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Problemas com o Atendimento<->Equipe de Atendimento<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Reembolso de pagamento<->Plano<->Planos de Saúde<->Hapvida Saúde
+Demora na execução<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Plano<->Planos de Saúde<->Qualidade do serviço prestado<->Hapvida Saúde
+Mau Atendimento<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+"Demora para autorização de consultas, exames e cirurgias<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde"
+Problemas com o Atendimento<->Qualidade do serviço prestado<->Equipe de Atendimento<->Hapvida Saúde
+Hapvida Saúde<->Não encontrei meu problema<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Plano<->Planos de Saúde<->Hapvida Saúde<->Reembolso de consulta-exame
+"Demora para autorização de consultas, exames e cirurgias<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde"
+Plano<->Planos de Saúde<->Qualidade do serviço prestado<->Hapvida Saúde
+Não consigo cancelar<->Planos de Saúde<->Administrativo<->Hapvida Saúde
+Hapvida Saúde<->Não encontrei meu problema<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Problemas com o Atendimento<->Canais de Atendimento<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Plano<->Planos de Saúde<->Cobrança indevida<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Reembolso de pagamento<->Plano<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Qualidade do serviço prestado<->Planos de Saúde<->Hapvida Saúde
+"Demora para autorização de consultas, exames e cirurgias<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde"
+Plano<->Planos de Saúde<->Cobrança indevida<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+"Demora para autorização de consultas, exames e cirurgias<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde"
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Demora na execução<->Hapvida Saúde
+Planos de saúde<->Horário de atendimento<->Clínicas Médicas<->Hapvida Saúde
+Problemas com o Atendimento<->Equipe de Atendimento<->Mau Atendimento<->Hapvida Saúde
+Planos de saúde<->Clínicas Médicas<->Dificuldade para agendamento de exames-consultas
+Plano<->Planos de Saúde<->Qualidade do serviço prestado<->Hapvida Saúde
+Problemas com o Atendimento<->Canais de Atendimento<->Demora na execução<->Hapvida Saúde
+Problemas com o Atendimento<->Canais de Atendimento<->Hapvida Saúde
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Hapvida Saúde<->Não encontrei meu problema<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Falta de cobertura de exames<->Plano<->Não encontrei meu problema<->Hapvida Saúde
+Reembolso de pagamento<->Plano<->Planos de Saúde<->Hapvida Saúde
+Problemas com o Atendimento<->Equipe de Atendimento<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Exames Lab e imagens<->Horário de atendimento<->Não encontrei meu problema<->Hapvida Saúde
+Mau Atendimento<->Plano<->Não encontrei meu problema<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Demora na execução<->Planos de Saúde<->Administrativo<->Hapvida Saúde
+Problemas com o Atendimento<->Equipe de Atendimento<->Mau Atendimento<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Mau Atendimento<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Mau atendimento do prestador de serviço<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Planos de saúde<->Mau Atendimento<->Planos de Saúde<->Hapvida Saúde
+"Demora para autorização de consultas, exames e cirurgias<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde"
+Não encontrei meu problema<->Administrativo<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Qualidade do serviço prestado<->Equipe de Atendimento<->Não encontrei meu problema<->Hapvida Saúde
+Chá e fitoterápicos<->Produtos Naturais<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Não encontrei meu problema<->Administrativo<->Hapvida Saúde
+Exames Lab e imagens<->Hapvida Saúde<->Exames Lab. e imagem<->Dificuldade para agendamento de exames-consultas
+"Demora para autorização de consultas, exames e cirurgias<->Plano<->Planos de Saúde<->Hapvida Saúde"
+Mau Atendimento<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Demora na execução<->Planos de Saúde<->Administrativo<->Hapvida Saúde
+Agendamento<->Não encontrei meu problema<->Administrativo<->Hapvida Saúde
+Seguro de saúde<->Reembolso de pagamento<->Exames Lab. e imagem<->Hapvida Saúde
+Não consigo cancelar<->Planos de Saúde<->Administrativo<->Hapvida Saúde
+Mau Atendimento<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Problemas com o Atendimento<->Canais de Atendimento<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Exames Lab e imagens<->Hapvida Saúde<->Exames Lab. e imagem<->Dificuldade para agendamento de exames-consultas
+Seguro de saúde<->Mau Atendimento<->Clínicas Médicas<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Exames Lab e imagens<->Qualidade do serviço prestado<->Exames Lab. e imagem<->Hapvida Saúde
+Não consigo cancelar<->Não encontrei meu problema<->Administrativo<->Hapvida Saúde
+Reembolso de pagamento<->Plano<->Planos de Saúde<->Hapvida Saúde
+Hapvida Saúde<->Planos de Saúde<->Cartão<->Cartão não enviado
+Problemas com o Atendimento<->Equipe de Atendimento<->Mau Atendimento<->Hapvida Saúde
+Planos de saúde<->Não encontrei meu problema<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Não consigo cancelar<->Planos de Saúde<->Administrativo<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+"Demora para autorização de consultas, exames e cirurgias<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde"
+Planos de saúde<->Não encontrei meu problema<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Cobrança indevida<->Planos de Saúde<->Hapvida Saúde
+Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Plano<->Planos de Saúde<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+"Demora para autorização de consultas, exames e cirurgias<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde"
+Outro Tipo de produto/Serviço<->Hapvida Saúde
+Demora na execução<->Plano<->Planos de Saúde<->Hapvida Saúde
+Demora na execução<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde
+Demora na execução<->Plano<->Planos de Saúde<->Hapvida Saúde
+Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Mau Atendimento<->Planos de Saúde<->Hapvida Saúde
+Mau Atendimento<->Não encontrei meu problema<->Rede de Atendimento<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Exames Lab e imagens<->Hapvida Saúde<->Exames Lab. e imagem<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Mau Atendimento<->Clínicas Médicas<->Hapvida Saúde
+Planos de saúde<->Demora na execução<->Não encontrei meu problema<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Plano<->Planos de Saúde<->Cobrança indevida<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Exames Lab e imagens<->Atraso na entrega dos resultados<->Não encontrei meu problema<->Hapvida Saúde
+Problemas com o Atendimento<->Equipe de Atendimento<->Mau Atendimento<->Hapvida Saúde
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+"Demora para autorização de consultas, exames e cirurgias<->Plano<->Planos de Saúde<->Hapvida Saúde"
+Demora na execução<->Não encontrei meu problema<->Rede de Atendimento<->Hapvida Saúde
+Reembolso de pagamento<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Cobrança indevida<->Planos de Saúde<->Hapvida Saúde
+Demora na execução<->Plano<->Planos de Saúde<->Hapvida Saúde
+Problemas com o Atendimento<->Equipe de Atendimento<->Mau Atendimento<->Hapvida Saúde
+Demora na execução<->Não encontrei meu problema<->Rede de Atendimento<->Hapvida Saúde
+Planos de saúde<->Mau Atendimento<->Planos de Saúde<->Hapvida Saúde
+Plano<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Exames Lab e imagens<->Hapvida Saúde<->Exames Lab. e imagem<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Problemas com o Atendimento<->Equipe de Atendimento<->Mau Atendimento<->Hapvida Saúde
+Problemas com o Atendimento<->Equipe de Atendimento<->Mau Atendimento<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Plano<->Mau Atendimento<->Planos de Saúde<->Hapvida Saúde
+Plano<->Mau Atendimento<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Qualidade do serviço<->Planos de Saúde<->Administrativo<->Hapvida Saúde
+Planos de saúde<->Não encontrei meu problema<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Qualidade do serviço prestado<->Planos de Saúde<->Hapvida Saúde
+Plano<->Planos de Saúde<->Qualidade do serviço prestado<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Plano<->Planos de Saúde<->Cobrança indevida<->Hapvida Saúde
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Qualidade do serviço prestado<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Qualidade do serviço prestado<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Planos de saúde<->Mau Atendimento<->Planos de Saúde<->Hapvida Saúde
+Problemas com o Atendimento<->Canais de Atendimento<->Hapvida Saúde
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Mau Atendimento<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Estorno do valor pago
+"Demora para autorização de consultas, exames e cirurgias<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde"
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Problemas com o Atendimento<->Equipe de Atendimento<->Mau Atendimento<->Hapvida Saúde
+"Demora para autorização de consultas, exames e cirurgias<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde"
+Valor abusivo<->Plano<->Planos de Saúde<->Hapvida Saúde
+Exames Lab e imagens<->Hapvida Saúde<->Exames Lab. e imagem<->Dificuldade para agendamento de exames-consultas
+Plano<->Mau Atendimento<->Planos de Saúde<->Hapvida Saúde
+Plano<->Planos de Saúde<->Qualidade do serviço prestado<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Qualidade do serviço prestado<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Mau Atendimento<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Plano<->Planos de Saúde<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Qualidade do serviço prestado<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Qualidade do serviço prestado<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+"Demora para autorização de consultas, exames e cirurgias<->Plano<->Planos de Saúde<->Hapvida Saúde"
+Problemas com o Atendimento<->Equipe de Atendimento<->Mau Atendimento<->Hapvida Saúde
+Plano<->Não encontrei meu problema<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Problemas com o Atendimento<->Qualidade do serviço prestado<->Equipe de Atendimento<->Hapvida Saúde
+Planos de saúde<->Qualidade do serviço prestado<->Planos de Saúde<->Hapvida Saúde
+Qualidade do serviço prestado<->Plano<->Não encontrei meu problema<->Hapvida Saúde
+Cancelamento de exame<->Exames Lab e imagens<->Exames Lab. e imagem<->Hapvida Saúde
+Exames Lab e imagens<->Demora na execução<->Não encontrei meu problema<->Hapvida Saúde
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Exames Lab e imagens<->Não encontrei meu problema<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Plano<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Não encontrei meu problema<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Plano<->Planos de Saúde<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Hapvida Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Demora na execução<->Planos de Saúde<->Rede de Atendimento<->Hapvida Saúde
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Exames Lab e imagens<->Hapvida Saúde<->Exames Lab. e imagem<->Dificuldade para agendamento dos exames
+Reembolso de pagamento<->Plano<->Planos de Saúde<->Hapvida Saúde
+Plano<->Planos de Saúde<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Reembolso de pagamento<->Plano<->Planos de Saúde<->Hapvida Saúde
+Mau atendimento do prestador de serviço<->Planos de Saúde<->Administrativo<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Hapvida Saúde<->Clínicas Médicas<->Dificuldade para agendamento de exames-consultas
+Hapvida Saúde<->Planos de Saúde<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+"Planos de saúde<->Demora para autorização de consultas, exames e cirurgias<->Não encontrei meu problema<->Hapvida Saúde"
+Mau atendimento do prestador de serviço<->Não encontrei meu problema<->Rede de Atendimento<->Hapvida Saúde
+Planos de saúde<->Hapvida Saúde<->Clínicas Médicas<->Dificuldade para agendamento de exames-consultas
+Exames Lab e imagens<->Qualidade do serviço prestado<->Exames Lab. e imagem<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+"Demora para autorização de consultas, exames e cirurgias<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde"
+Reembolso de pagamento<->Plano<->Planos de Saúde<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+"Demora para autorização de consultas, exames e cirurgias<->Planos de saúde<->Planos de Saúde<->Hapvida Saúde"
+Hapvida Saúde
+Hapvida Saúde<->Não encontrei meu problema<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Mau Atendimento<->Não encontrei meu problema<->Administrativo<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Hapvida Saúde
+Hapvida Saúde<->Não encontrei meu problema<->Rede de Atendimento<->Dificuldade para agendamento de exames-consultas
+Planos de saúde<->Planos de Saúde<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Planos de saúde<->Mau Atendimento<->Planos de Saúde<->Hapvida Saúde
+Reembolso de pagamento<->Plano<->Planos de Saúde<->Hapvida Saúde
+Agendamento<->Planos de Saúde<->Administrativo<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Mau atendimento do prestador de serviço<->Hapvida Saúde
+Planos de saúde<->Planos de Saúde<->Hapvida Saúde<->Dificuldade para agendamento de exames-consultas
+Mau atendimento do prestador de serviço<->Não encontrei meu problema<->Rede de Atendimento<->Hapvida Saúde
+Exames Lab e imagens<->Não encontrei meu problema<->Resultado de exames extraviados<->Hapvida Saúde
+Exames Lab e imagens<->Horário de atendimento<->Exames Lab. e imagem<->Hapvida Saúde

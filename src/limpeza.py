@@ -42,17 +42,58 @@ def _limpar_localidade(df):
 
     return df
 
-# Desenvolvendo
 def _limpar_categoria(df):
     """
-    Limpa a coluna CATEGORIA: remove aspas, separa a hierarquia <-> 
-    e extrai apenas a causa raiz do problema.
+    Remove aspas duplas e simples, e limpa espaços extras.
     """
     # Padronização de categoria
     df['CATEGORIA'] = df['CATEGORIA'].str.replace('"', '', regex=False).str.replace("'", '', regex=False)
-
+    
     df['CATEGORIA'] = df['CATEGORIA'].str.strip()
+    
+    return df
+def _classificar_hierarquia_detalhada(df):
+    """
+    Classifica a CATEGORIA em Origem, Serviço e agrupa Problemas específicos.
+    """
+    
+    def extrair_detalhes(row):
+        cat = str(row['CATEGORIA']).upper()
+        
+        if 'PLANO' in cat:
+            origem = 'PLANO DE SAÚDE'
+        elif 'HAPVIDA' in cat:
+            origem = 'HAPVIDA SAÚDE'
+        else:
+            origem = 'OUTROS'
+            
+        mapeamento = {
+            'ATENDIMENTO': ['ATENDIMENTO', 'SAC', 'CANAIS'],
+            'AGENDAMENTO': ['AGENDAMENTO', 'HORÁRIOS', 'MARCAR'],
+            'EXAMES / PROCEDIMENTOS': ['EXAME', 'LAB', 'IMAGEM', 'RESULTADO'],
+            'FINANCEIRO': ['COBRANÇA', 'REEMBOLSO', 'ESTORNO', 'REAJUSTE', 'PAGAMENTO'],
+            'AUTORIZAÇÃO': ['AUTORIZAÇÃO', 'DEMORA', 'PRAZO', 'EXECUÇÃO'],
+            'ESTRUTURA / REDE': ['REDE', 'CLÍNICA', 'LEITOS', 'INFRAESTRUTURA', 'CREDENCIADA'],
+            'ADMINISTRATIVO': ['ADMINISTRATIVO', 'CARTÃO', 'CANCELAR', 'PORTABILIDADE', 'CADASTRAIS'],
+            'INFORMAÇÃO': ['INFORMAÇÃO', 'PROPAGANDA']
+        }
+        
+        servico = 'OUTROS'
+        for chave, palavras in mapeamento.items():
+            if any(p in cat for p in palavras):
+                servico = chave
+                break
+        
+        partes = [p.strip() for p in cat.split('<->')]
+        remover = ['HAPVIDA SAÚDE', 'PLANOS DE SAÚDE', 'PLANO', 'PLANOS', 'PLANO DE SAÚDE', 'ADMINISTRATIVO', 'NÃO ENCONTREI MEU PROBLEMA']
+        problemas = [p for p in partes if p not in remover and len(p) > 2]
+        
+        return pd.Series([origem, servico, ", ".join(problemas)])
 
+    df[['TIPO_ORIGEM', 'TIPO_SERVICO', 'PROBLEMA']] = df.apply(extrair_detalhes, axis=1)
+
+    df = df.drop(columns=['CATEGORIA'])
+    
     return df
 
 NEGACOES = {'não', 'nem', 'nunca', 'jamais', 'nenhum', 'nada', 'ninguém'}
@@ -106,11 +147,12 @@ def executar_limpeza(df):
     })
 
     df = _limpar_localidade(df)
-
     df = _tratamento_tempo(df)
+
+    df = _limpar_categoria(df) 
+    df = _classificar_hierarquia_detalhada(df)
     
     df['TEMA'] = df['TEMA'].str.strip().str.upper()
-
     df['DESCRICAO'] = df['DESCRICAO'].apply(_limpar_texto)
 
     df = df.astype({

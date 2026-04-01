@@ -163,7 +163,7 @@ st.markdown("---")
 # TODO: adicionar aqui
 
 # [3] Distribuição Espacial – Gráfico de Pareto por Estado
-st.subheader("📊 Distribuição de Reclamações por Estado (Pareto)")
+st.subheader("Distribuição de Reclamações por Estado")
 
 if df_filtrado.empty:
     st.warning("Nenhum dado encontrado para os filtros selecionados.")
@@ -179,7 +179,6 @@ else:
 
     fig_pareto = go.Figure()
 
-    # Barras de frequência por estado
     fig_pareto.add_trace(go.Bar(
         x=pareto["UF"],
         y=pareto["QTD"],
@@ -188,7 +187,6 @@ else:
         yaxis="y1",
     ))
 
-    # Linha acumulada (%)
     fig_pareto.add_trace(go.Scatter(
         x=pareto["UF"],
         y=pareto["ACUMULADO_%"],
@@ -199,7 +197,6 @@ else:
         yaxis="y2",
     ))
 
-    # Linha de referência 80%
     fig_pareto.add_hline(
         y=80,
         line_dash="dash",
@@ -229,8 +226,39 @@ else:
 
 st.markdown("---")
 
-# [4] Proporção de Resoluções por STATUS
-# TODO: adicionar aqui
+st.subheader("Proporção de Resoluções por Status")
+
+if df_filtrado.empty:
+    st.warning("Nenhum dado encontrado para os filtros selecionados.")
+else:
+    status_count = (
+        df_filtrado.groupby("STATUS", as_index=False)
+        .size()
+        .rename(columns={"size": "QTD"})
+        .sort_values("QTD", ascending=False)
+    )
+
+    fig_status = go.Figure(go.Pie(
+        labels=status_count["STATUS"],
+        values=status_count["QTD"],
+        hole=0.4,
+        textinfo="label+percent",
+        hovertemplate="<b>%{label}</b><br>Quantidade: %{value}<br>Percentual: %{percent}<extra></extra>",
+        marker=dict(colors=[
+            "#2ecc71", "#e74c3c", "#3498db", "#f39c12",
+            "#9b59b6", "#1abc9c", "#e67e22", "#95a5a6"
+        ]),
+    ))
+
+    fig_status.update_layout(
+        height=420,
+        margin=dict(t=20, b=0, l=0, r=0),
+        legend=dict(orientation="h", yanchor="bottom", y=-0.2, xanchor="center", x=0.5),
+    )
+
+    st.plotly_chart(fig_status, use_container_width=True)
+
+st.markdown("---")
 
 # [5] Análise Estatística de Textos (Boxplot / Histograma)
 # TODO: adicionar aqui

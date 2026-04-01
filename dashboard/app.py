@@ -163,7 +163,71 @@ st.markdown("---")
 # TODO: adicionar aqui
 
 # [3] Distribuição Espacial – Gráfico de Pareto por Estado
-# TODO: adicionar aqui
+st.subheader("📊 Distribuição de Reclamações por Estado (Pareto)")
+
+if df_filtrado.empty:
+    st.warning("Nenhum dado encontrado para os filtros selecionados.")
+else:
+    pareto = (
+        df_filtrado.groupby("UF", as_index=False)
+        .size()
+        .rename(columns={"size": "QTD"})
+        .sort_values("QTD", ascending=False)
+    )
+
+    pareto["ACUMULADO_%"] = (pareto["QTD"].cumsum() / pareto["QTD"].sum() * 100).round(1)
+
+    fig_pareto = go.Figure()
+
+    # Barras de frequência por estado
+    fig_pareto.add_trace(go.Bar(
+        x=pareto["UF"],
+        y=pareto["QTD"],
+        name="Reclamações",
+        marker_color="#d62728",
+        yaxis="y1",
+    ))
+
+    # Linha acumulada (%)
+    fig_pareto.add_trace(go.Scatter(
+        x=pareto["UF"],
+        y=pareto["ACUMULADO_%"],
+        name="% Acumulado",
+        mode="lines+markers",
+        marker=dict(size=5),
+        line=dict(color="#1f77b4", width=2),
+        yaxis="y2",
+    ))
+
+    # Linha de referência 80%
+    fig_pareto.add_hline(
+        y=80,
+        line_dash="dash",
+        line_color="gray",
+        annotation_text="80%",
+        annotation_position="top right",
+        yref="y2",
+    )
+
+    fig_pareto.update_layout(
+        xaxis_title="Estado (UF)",
+        yaxis=dict(title="Quantidade de reclamações"),
+        yaxis2=dict(
+            title="% Acumulado",
+            overlaying="y",
+            side="right",
+            range=[0, 105],
+            showgrid=False,
+        ),
+        legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
+        hovermode="x unified",
+        height=450,
+        margin=dict(t=20),
+    )
+
+    st.plotly_chart(fig_pareto, use_container_width=True)
+
+st.markdown("---")
 
 # [4] Proporção de Resoluções por STATUS
 # TODO: adicionar aqui

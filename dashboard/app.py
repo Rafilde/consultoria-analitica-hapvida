@@ -264,4 +264,32 @@ st.markdown("---")
 # TODO: adicionar aqui
 
 # [6] Mineração de Texto – WordCloud com NLP
-# TODO: adicionar aqui
+st.subheader("Palavras Mais Frequentes nas Reclamações")
+
+if df_filtrado.empty:
+    st.warning("Nenhum dado encontrado para os filtros selecionados.")
+else:
+    from wordcloud import WordCloud
+    import matplotlib.pyplot as plt
+
+    # DESCRICAO já foi lematizada e sem stopwords pelo limpeza.py
+    texto_limpo = " ".join(df_filtrado["DESCRICAO"].dropna().astype(str).tolist())
+
+    if not texto_limpo.strip():
+        st.warning("Sem palavras suficientes para gerar a WordCloud.")
+    else:
+        wc = WordCloud(
+            width=1200,
+            height=500,
+            background_color="white",
+            colormap="Reds",
+            max_words=100,
+            collocations=False,
+        ).generate(texto_limpo)
+
+        fig_wc, ax = plt.subplots(figsize=(14, 5))
+        ax.imshow(wc, interpolation="bilinear")
+        ax.axis("off")
+        st.pyplot(fig_wc)
+
+st.markdown("---")

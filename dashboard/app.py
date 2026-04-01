@@ -2,6 +2,7 @@ import sys
 import os
 import streamlit as st
 import pandas as pd
+import plotly.graph_objects as go
 
 sys.path.append(os.path.join(os.path.dirname(__file__), "..", "src"))
 
@@ -100,7 +101,63 @@ st.markdown("---")
 
 
 # [1] Série Temporal com Tendência (Média Móvel)
-# TODO: adicionar aqui
+st.subheader("Série Temporal de Reclamações com Tendência")
+
+janela_mm = st.sidebar.slider(
+    label="Janela da Média Móvel (meses)",
+    min_value=2,
+    max_value=12,
+    value=3,
+    step=1,
+)
+
+if df_filtrado.empty:
+    st.warning("Nenhum dado encontrado para os filtros selecionados.")
+else:
+    mensal = (
+        df_filtrado.dropna(subset=["DATA"])
+        .resample("MS", on="DATA")
+        .size()
+        .reset_index(name="QTD_RECLAMACOES")
+    )
+    mensal["MEDIA_MOVEL"] = (
+        mensal["QTD_RECLAMACOES"]
+        .rolling(window=janela_mm, min_periods=1)
+        .mean()
+        .round(1)
+    )
+    # O plotly é interativo no Streamlit
+    fig_serie = go.Figure()
+
+    fig_serie.add_trace(go.Scatter(
+        x=mensal["DATA"],
+        y=mensal["QTD_RECLAMACOES"],
+        mode="lines+markers",
+        name="Reclamações mensais",
+        line=dict(color="#1f77b4", width=2),
+        marker=dict(size=5),
+    ))
+
+    fig_serie.add_trace(go.Scatter(
+        x=mensal["DATA"],
+        y=mensal["MEDIA_MOVEL"],
+        mode="lines",
+        name=f"Média móvel ({janela_mm} meses)",
+        line=dict(color="#d62728", width=2.5, dash="dash"),
+    ))
+
+    fig_serie.update_layout(
+        xaxis_title="Mês",
+        yaxis_title="Quantidade de reclamações",
+        legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
+        hovermode="x unified",
+        height=420,
+        margin=dict(t=20),
+    )
+
+    st.plotly_chart(fig_serie, use_container_width=True)
+
+st.markdown("---")
 
 # [2] Análise Geográfica Avançada (Mapa Coroplético)
 # TODO: adicionar aqui

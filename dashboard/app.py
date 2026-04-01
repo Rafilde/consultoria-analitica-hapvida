@@ -261,7 +261,54 @@ else:
 st.markdown("---")
 
 # [5] Análise Estatística de Textos (Boxplot / Histograma)
-# TODO: adicionar aqui
+st.subheader("Distribuição do Tamanho dos Textos por Status")
+
+if df_filtrado.empty:
+    st.warning("Nenhum dado encontrado para os filtros selecionados.")
+else:
+    import plotly.express as px
+
+    tipo_grafico = st.radio(
+        label="Tipo de gráfico",
+        options=["Boxplot", "Histograma"],
+        horizontal=True,
+    )
+
+    if tipo_grafico == "Boxplot":
+        fig_texto = px.box(
+            df_filtrado,
+            x="STATUS",
+            y="TAMANHO_TEXTO",
+            color="STATUS",
+            points="outliers",
+            labels={
+                "STATUS": "Status",
+                "TAMANHO_TEXTO": "Tamanho da descrição (caracteres)",
+            },
+        )
+    else:
+        fig_texto = px.histogram(
+            df_filtrado,
+            x="TAMANHO_TEXTO",
+            color="STATUS",
+            nbins=40,
+            barmode="overlay",
+            opacity=0.65,
+            labels={
+                "TAMANHO_TEXTO": "Tamanho da descrição (caracteres)",
+                "STATUS": "Status",
+            },
+        )
+
+    fig_texto.update_layout(
+        height=450,
+        margin=dict(t=20),
+        legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
+    )
+
+    st.plotly_chart(fig_texto, use_container_width=True)
+
+st.markdown("---")
 
 # [6] Mineração de Texto – WordCloud com NLP
 st.subheader("Palavras Mais Frequentes nas Reclamações")

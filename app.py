@@ -168,12 +168,13 @@ with tab1:
     st.subheader("Distribuição de Reclamações por Dia da Semana")
 
     df_dow = df.copy()
-    df_dow["DIA_SEMANA"] = df_dow["DATA"].dt.day_name(locale="pt_BR.UTF-8").fillna(
-        df_dow["DATA"].dt.dayofweek.map({
+    try:
+        df_dow["DIA_SEMANA"] = df_dow["DATA"].dt.day_name(locale="pt_BR.UTF-8")
+    except Exception:
+        df_dow["DIA_SEMANA"] = df_dow["DATA"].dt.dayofweek.map({
             0: "Segunda", 1: "Terça", 2: "Quarta", 3: "Quinta",
             4: "Sexta", 5: "Sábado", 6: "Domingo",
         })
-    )
     ordem_dias = ["Segunda", "Terça", "Quarta", "Quinta", "Sexta", "Sábado", "Domingo"]
     dow_counts = df_dow["DIA_SEMANA"].value_counts().reindex(ordem_dias, fill_value=0).reset_index()
     dow_counts.columns = ["DIA_SEMANA", "TOTAL"]

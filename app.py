@@ -107,7 +107,7 @@ st.caption(f"Base filtrada: **{len(df):,}** registros de {len(df_full):,} totais
 st.subheader("📌 Indicadores Gerais")
 
 total = len(df)
-resolvidas = (df["STATUS"] == "Resolvida").sum()
+resolvidas = (df["STATUS"] == "Resolvido").sum()
 nao_respondidas = (df["STATUS"] == "Não respondida").sum()
 taxa_resolucao = resolvidas / total * 100 if total else 0
 taxa_omissao = nao_respondidas / total * 100 if total else 0
@@ -279,10 +279,11 @@ with tab2:
         title="Distribuição de Status por UF (%)",
         labels={"Percentual": "% Reclamações", "UF": "Estado"},
         color_discrete_map={
-            "Resolvida": "#2ecc71",
+            "Resolvido": "#2ecc71",
             "Não respondida": "#e74c3c",
-            "Em análise": "#f39c12",
+            "Não resolvido": "#e67e22",
             "Respondida": "#3498db",
+            "Em réplica": "#9b59b6",
         },
     )
     st.plotly_chart(fig_uf, width='stretch')
@@ -365,10 +366,11 @@ with tab4:
             hole=0.4,
             title="Distribuição de Status",
             color_discrete_map={
-                "Resolvida": "#2ecc71",
+                "Resolvido": "#2ecc71",
                 "Não respondida": "#e74c3c",
-                "Em análise": "#f39c12",
+                "Não resolvido": "#e67e22",
                 "Respondida": "#3498db",
+                "Em réplica": "#9b59b6",
             },
         )
         st.plotly_chart(fig_status, width='stretch')
